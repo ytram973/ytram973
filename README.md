@@ -21,3 +21,5 @@ If you would like to contact me, you can find me on LinkedIn at the following ad
 I plan to work on projects that allow me to continue developing my skills in React and Node.js. I am also interested in learning new technologies, such as Flutter and Python, to expand my skills in web development and AI.
 
 Thank you for visiting my GitHub profile!
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytram973&show_icons=true&locale=en&layout=compact" alt="ytram973" /></p>
