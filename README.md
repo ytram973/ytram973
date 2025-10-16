@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub profile!
 
-My name is Marty and I am currently a full stack developer student. I am passionate about programming and I enjoy working on projects that allow me to put my skills into practice.
+My name is Marty and I am currently a Application developer designer student. I am passionate about programming and I enjoy working on projects that allow me to put my skills into practice.
 
 ## Technical Skills
 
